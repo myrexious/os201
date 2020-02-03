@@ -1,0 +1,6 @@
+OS 2020 1
+Trial of Week 01: done!
+Copied folder
+Run the files in Week01 folder
+Tried and experimented a bit with vim
+Edited some of the a00 to a12 folders to try out some of the edited programs(?)
