@@ -1,0 +1,5 @@
+OS 2020 1
+Trial of Week 01: done!
+Copied folder
+Run the files in Week02 folder
+Tried to do something in c, failed horribly, resetted
