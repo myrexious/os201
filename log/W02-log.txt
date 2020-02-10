@@ -1,4 +1,5 @@
 OS 2020 1
+OS201 B 1806191471 samuelsamosir27 Samuel Ludwig Ian
 Trial of Week 01: done!
 Copied folder
 Run the files in Week02 folder
