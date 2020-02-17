@@ -4,3 +4,6 @@ Trial of Week 01: done!
 Copied folder
 Run the files in Week02 folder
 Tried to do something in c, failed horribly, resetted
+Tried the encryption task,
+	asc in https://github.com/samuelsamosir27/os201/blob/master/Encryption.asc
+	txt in https://github.com/samuelsamosir27/os201/blob/master/OS201%20B%201806191471%20samuelsamosir27%20Samuel%20Ludwig%20Ian.txt
