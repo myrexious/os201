@@ -1,9 +1,18 @@
-OS 2020 1
-OS201 B 1806191471 samuelsamosir27 Samuel Ludwig Ian
-Trial of Week 01: done!
-Copied folder
-Run the files in Week02 folder
-Tried to do something in c, failed horribly, resetted
-Tried the encryption task,
-	asc in https://github.com/samuelsamosir27/os201/blob/master/Encryption.asc
-	txt in https://github.com/samuelsamosir27/os201/blob/master/OS201%20B%201806191471%20samuelsamosir27%20Samuel%20Ludwig%20Ian.txt
+-----BEGIN PGP MESSAGE-----
+
+hQIMA0tbvQREFwkCAQ/9EFv8TanEJKp51WPq7W2kFFPP9zCDlF30Xxu3zmpkHudP
+J5/YUwQCRBRDGrT/bewuNgjNwkNrl1tBfu4AV5e9s52Lg5CS46U6ViDlGYO6ZOEN
+6W/u8sZZ0mgb2Wp3SQpR6UXnZ47QeAuoXDmkFDsrQIxQB+dMLvIVYWZy3XZfUnoo
++WVq9GOgorTWda0p4YA6Z+nh/Plr4P936GSL6Mzaxf6nI9YDOyEDtPTssprjPOrR
+t8ZL3UNhwZAv3Jg2ZT09E9Ko5KgEWuGWzCXXbZba1jq981b/cUfyr05chNtKgF9w
+/lBJsrNUxO2ujTbv4MCW5BRyv3NFPHMcLjzbu9H7UJAWb3oMJqmZ14I8UvAMnjpt
+G6lS5KPq01JNFKxiJ1n1Eh5B/6E5/P3zSkfuckEhGMtBqkpeb7tVZZ5K4lxO5rox
+dUQHVjTA/cROQvZB3GIkhmyOv7ZZh5z2xbuSaUM2jxftdlIw5Mbh2utCe5W6rNWt
+FgxO6xqt7lHG6j03xX2vrKEWYR4eYbOzWQ4JkxEsuvJKkG6tk5Rg2ekEZafpvPi1
+VszIk0P3Yusd2mfYubHElBvWPrL8QzjLAtl6tPNOJfcLDCsEd+hsr8luIJGS4Jy/
+Gu8gZ3Wbmyfy3hw7fIhdlPJLhsjlkuPXTJbP8lx2NG05eIjnskutCU6qYAM708LS
+awHImETJrR2OFWpEmrSTh7+KbcwaljyGAjgUGyxebipBhVn35P1S9jgXVSsKS/4G
+TmV/kZSZF3qlyWJtGBtyMRkqgGg6wqDqPirLmwuZXVZQ9e38VDEAdMBNmP7KLJzP
+hEVnLGixHqUMNMWg
+=uPqU
+-----END PGP MESSAGE-----
