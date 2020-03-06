@@ -1,0 +1,4 @@
+OS 2020 1
+OS201 B 1806191471 samuelsamosir27 Samuel Ludwig Ian
+ran makefile and checked out every single file in the Week05 folder
+tried to understand the 06-memory.map, failed horribly
